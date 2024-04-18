@@ -1,3 +1,3 @@
 npm install promises-aplus-tests
 
-npm run test
+promises-aplus-tests [your promise file]
